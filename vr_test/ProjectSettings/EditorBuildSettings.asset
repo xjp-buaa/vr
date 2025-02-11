@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/mr_Example.unity
+    guid: 660164c45cbec2c43a99da6fe273c2bf
+  - enabled: 1
+    path: Assets/Samples/Ximmerse XR Plugin/1.8.3/Hello Unity/Scenes/HelloUnity.unity
+    guid: f62f5f277e680ce40895471d559f7187
+  - enabled: 0
+    path: Assets/Scenes/mr_test01.unity
+    guid: eb2072b615eecd246ac57cb8592a3f2a
+  m_configObjects:
+    Ximmerse.XR.XimmerseXRSettings: {fileID: 11400000, guid: 05b7764e4fc9c884780d9b92eb351048, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c0d86cec5dc74f54ab065ee928202f87, type: 2}

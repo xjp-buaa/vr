@@ -1,0 +1,406 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.5 x64 6.5.0.9182
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl the_rear_ring
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 16
+map_Kd the_rear_ring_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS the_rear_ring_gloss.png
+map_kA 
+map_Ns 
+
+newmtl Cam
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 16
+map_Kd Cam_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS Cam_gloss.png
+map_kA 
+map_Ns 
+
+newmtl panel
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 64
+map_Kd panel_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS panel_gloss.png
+map_kA 
+map_Ns 
+
+newmtl cam0
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 16
+map_Kd cam_first_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS cam_first_gloss.png
+map_kA 
+map_Ns 
+
+newmtl shell
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 32
+map_Kd shell_color.png
+map_bump shell_disp.png
+bump shell_disp.png
+map_opacity 
+map_d 
+refl 
+map_kS shell_gloss.png
+map_kA 
+map_Ns 
+
+newmtl pad
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 16
+map_Kd starter generator pad_color.png
+map_bump starter generator pad bump.png
+bump starter generator pad bump.png
+map_opacity 
+map_d 
+refl 
+map_kS starter generator pad_gloss.png
+map_kA 
+map_Ns 
+
+newmtl val
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 45.2548
+map_Kd val_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS val_gloss.png
+map_kA 
+map_Ns 
+
+newmtl front
+Ka 0.0470588 0.0470588 0.0470588
+Kd 0.0470588 0.0470588 0.0470588
+Ks 1 1 1
+illum 2
+Ns 5.27803
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS val_first_specular_color.png
+map_kA 
+map_Ns 
+
+newmtl razrez_fool
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd zagim_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns zagim_gloss.png
+
+newmtl Rama_obod
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 32
+map_Kd Rama_obod_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS Rama_obod_gloss.png
+map_kA 
+map_Ns 
+
+newmtl gearbox
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 64
+map_Kd gearbox_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS gearbox_gloss.png
+map_kA 
+map_Ns 
+
+newmtl accessory_gearbox
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 16
+map_Kd accessory_gearbox_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS accessory_gearbox_gloss.png
+map_kA 
+map_Ns 
+
+newmtl unit
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 32
+map_Kd engine_fuel_control_unit_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS engine_fuel_control_unit_gloss.png
+map_kA 
+map_Ns 
+
+newmtl duck
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 90.5097
+map_Kd duck_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS duck_gloss.png
+map_kA 
+map_Ns 
+
+newmtl rubber
+Ka 0.00392157 0.00392157 0.00392157
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.9 0.9 0.9
+illum 2
+Ns 5.65685
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl obod_zad
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 16
+map_Kd obod_zad_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS obod_zad_gloss.png
+map_kA 
+map_Ns 
+
+newmtl rama
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 16
+map_Kd Rama_obod_first_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS Rama_obod_first_gloss.png
+map_kA 
+map_Ns 
+
+newmtl ventelator_fool
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 8
+map_Kd ventilator_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS val_gloss.png
+map_kA 
+map_Ns 
+
+newmtl cut_The_CUT
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 32
+map_Kd cut_The_CUT_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS cut_The_CUT_gloss.png
+map_kA 
+map_Ns 
+
+newmtl ring_first
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 8
+map_Kd ring_first_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS ring_first_gloss.png
+map_kA 
+map_Ns 
+
+newmtl fool_bolt_gear
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 8
+map_Kd fool_bolt_gear_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS fool_bolt_gear_gloss.png
+map_kA 
+map_Ns 
+
+newmtl fool_centrifuga
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 4
+map_Kd fool_centrifuga_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS fool_centrifuga_gloss.png
+map_kA 
+map_Ns 
+
+newmtl fool_rear_panel
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 16
+map_Kd fool_rear_panel_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS fool_rear_panel_gloss.png
+map_kA 
+map_Ns 
+
+newmtl fool_the_bearing
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 4.59479
+map_Kd val_front_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS val_front_gloss.png
+map_kA 
+map_Ns 
+
+newmtl protection_fool
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 16
+map_Kd protection_fool_color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS protection_fool_gloss.png
+map_kA 
+map_Ns 
