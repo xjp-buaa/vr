@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/mr_Example.unity
     guid: 660164c45cbec2c43a99da6fe273c2bf
   - enabled: 1
-    path: Assets/Samples/Ximmerse XR Plugin/1.8.3/Hello Unity/Scenes/HelloUnity.unity
+    path: Assets/Scenes/HelloUnity.unity
     guid: f62f5f277e680ce40895471d559f7187
   - enabled: 0
     path: Assets/Scenes/mr_test01.unity
